@@ -1,0 +1,13 @@
+.photo{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin:300px 600px;
+    size: 100px;
+
+
+}
+body{
+    background-image:url("Gum_Priscilla.jpg");
+    
+}

@@ -1,0 +1,61 @@
+.box1{
+    background: lightblue;
+}
+body{
+    margin: 0;
+}
+.box1:hover{
+    background: yellow;
+}
+.box2{
+    background: lightgray;
+    margin-left: 800px;
+    margin-top: -316px;
+}
+.box2:hover{
+    background:greenyellow
+}
+.box3{
+    background: rgb(114, 232, 179);
+    margin-left: 400px;
+    margin-top: -16px;
+    
+
+}
+.box3:hover{
+    background: cyan;
+}
+.box4{
+    background: greenyellow;
+    margin-top: -20px;
+    
+}
+.box4:hover{
+    background: pink;
+}
+.box5{
+    background: lightpink;
+    margin-left: 800px;
+    margin-top: -310px;
+
+}
+.box5:hover{
+    background: purple;
+}
+div{
+    width: 400px;
+    height:300px;
+    
+}
+a{
+    display: block;
+    width: 400px;
+    height:300px;
+    text-decoration: none;
+    color: black;
+
+}
+p{
+    text-align: center;
+    line-height: 300px;
+}
